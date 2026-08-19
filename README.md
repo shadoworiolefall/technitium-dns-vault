@@ -40,4 +40,4 @@ Project page: https://technitium-dns-vault.softonx.xyz
 ## 🔧 What it does
 - **Kill Switch:** Automatic connection termination if the secure tunnel drops unexpectedly.
 - **Split Tunneling:** Route specific apps through the VPN while others connect directly.
-- **Server Network:** Global server infrastructure with optimized nodes for speed and reliability.  
+- **Server Network:** Global server infrastructure with optimized nodes for speed and reliability.   
